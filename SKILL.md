@@ -202,8 +202,9 @@ gap tuzilishini imkon qadar asliyatdagidek saqlang.
   maʼnosi farqlanadi: `xol` (dogʻ) ↔ `hol` (ahvol).
 - **Kirill `е` soʻz boshida** → `ye`: `yer`, `yetti`, `Yevropa`. Kirill `э`
   → `e`: `eshik`, `ekin`.
-- **`-ga`, `-gan` qoʻshimchalari**: `k`/`g` dan keyin `-ka`/`-kan`, `q`/`gʻ`
-  dan keyin `-qa`/`-qan`: `tilakka`, `qishloqqa`, `chiqqan`.
+- **`-ga`, `-gan` qoʻshimchalari**: faqat `k` dan keyin `-ka`/`-kan`, faqat
+  `q` dan keyin `-qa`/`-qan` (`tilakka`, `qishloqqa`, `chiqqan`). Qolgan
+  hollarda `g` yoziladi: `togʻga`, `bargga` (`toqqa`, `bargka` emas).
 - **Tartib son raqamda**: `5-sinf`, `3-bob`, `2026-yil`; `5-chi sinf` emas.
 - **Oy, kun, millat va til nomlari** kichik harf bilan: `6-noyabr`,
   `dushanba`, `oʻzbek tili`.

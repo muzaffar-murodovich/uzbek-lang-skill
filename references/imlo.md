@@ -56,20 +56,19 @@ Bir boʻgʻinli soʻzlarda va koʻpgina oʻzlashmalarda oʻzgarmaydi:
 
 Ayrim ikki boʻgʻinli soʻzlarda ikkinchi boʻgʻin unlisi tushadi:
 `burun` → `burni`, `ogʻiz` → `ogʻzi`, `qorin` → `qorni`, `oʻrin` → `oʻrni`,
-`koʻngil` → `koʻngli`, `singil` → `singlisi`.
+`koʻngil` → `koʻngli`, `singil` → `singlisi`, `shahar` → `shahri`.
 
 ### `-ga`, `-gan`, `-gach`, `-guncha` qoʻshimchalari
 
-- `k` yoki `g` bilan tugasa → `-ka`, `-kan`, `-kach`, `-kuncha`:
-  `tilakka`, `bargka`, `ekkan`, `tikkach`.
-- `q` yoki `gʻ` bilan tugasa → `-qa`, `-qan`, `-qach`, `-quncha`:
-  `qishloqqa`, `chiqqan`, `toqqa` (`togʻ` + `-ga`), `boqqa` (`bogʻ` + `-ga`).
+Lotin yozuvida soʻz oxiridagi harf hal qiladi, talaffuz emas:
 
-### Boshqa holatlar
+1. `k` bilan tugasa → `k`: `tokka`, `yoʻlakka`, `tilakka`, `ekkan`, `tikkach`.
+2. `q` bilan tugasa → `q`: `chopiqqa`, `qishloqqa`, `uzoqqa`, `chiqqan`.
+3. **Qolgan barcha hollarda** → `g`, hatto `k` yoki `q` deb talaffuz qilinsa
+   ham: `bargga`, `pedagogga`, `togʻga`, `bogʻga`, `bugʻga`, `sogʻga`.
 
-- `-lar` qoʻshimchasi oʻzgarmaydi: `kitoblar`, `odamlar`.
-- Egalik va kelishik qoʻshimchalari soʻzga qoʻshib yoziladi: `uyimizning`,
-  `kitobingizni`.
+`togʻga` soʻzlashuvda “toqqa” deb aytiladi, kirill yozuvida ham `тоққа` deb
+yoziladi. Lotin yozuvida esa faqat `togʻga` toʻgʻri; `toqqa`, `bargka` xato.
 
 ## 4. Qoʻshib, ajratib va chiziqcha bilan yozish
 
@@ -83,7 +82,6 @@ Ayrim ikki boʻgʻinli soʻzlarda ikkinchi boʻgʻin unlisi tushadi:
 - `bir` bilan yaxlitlashgan soʻzlar: `biroz`, `birpas`, `birdan`.
 - Yuklamalar `-mi`, `-chi`, `-oq`/`-yoq`, `-gina`/`-kina`/`-qina`, `-dir`:
   `kelasanmi`, `senchi`, `ertalaboq`, `kelishiyoq`, `ozgina`, `bordir`.
-- Olmoshlar: `shunday`, `bunday`, `qanday`, `shuncha`, `nimaga`.
 
 ### Ajratib yoziladi
 
@@ -126,7 +124,7 @@ Ayrim ikki boʻgʻinli soʻzlarda ikkinchi boʻgʻin unlisi tushadi:
 - Til nomlari: `oʻzbek tili`, `ingliz tili`.
 - Lavozimlar (rasmiy hujjatlardagi alohida holatlardan tashqari): `rektor`,
   `vazir`, `prezident`.
-
+- -lik qoʻshimchasi qoʻshilsa: `oʻzbekistonlik talaba`
 ### Qisqartma nomlar
 
 - Bosh harflardan tuzilgan qisqartmalar katta harf bilan: `BMT`, `AQSh`,
