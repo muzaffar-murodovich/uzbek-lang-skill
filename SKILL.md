@@ -166,36 +166,34 @@ Bitta xatboshida bittadan ortiq tire boʻlsa, matnni qayta koʻrib chiqing.
 Bu qoida Yozish, Tahrir va tarjimaga taalluqli. Korrekturada muallifning
 tirelariga tegmang (grammatik xato boʻlmasa).
 
-### Tarjimada uzun gaplarni boʻling
+### Tarjimada uzun gaplar
 
 Inglizchada uzun gap tuzish oson: `which`, `that`, `while` bilan fikrlarni
 ketma-ket ulash mumkin. Oʻzbek tilida kesim gap oxirida, aniqlovchilar esa
-aniqlanmishdan oldin keladi. Shuning uchun uzun gapda oʻquvchi kesimga
-yetguncha fikrni yoʻqotadi.
+aniqlanmishdan oldin keladi. Shuning uchun inglizcha gap oʻzbekchaga aynan
+koʻchirilsa, baʼzan ogʻir va tushunarsiz boʻlib qoladi.
 
-Gapni boʻling, agar:
+Koʻp hollarda uzun gap oʻzbekchada ham yaxshi chiqadi. Gapni oʻzgartirishga
+faqat u **haqiqatan ogʻir oʻqilsa** murojaat qiling. Masalan, kesimdan oldin
+uzun aniqlovchi zanjiri yigʻilib qolsa yoki bitta gapga juda koʻp fikr
+sigʻdirilgan boʻlsa.
 
-- unda ikki yoki undan ortiq mustaqil fikr boʻlsa;
-- kesimdan oldin uzun aniqlovchi zanjiri yigʻilib qolsa
-  (`... -gan ... -gan ... -dagi ...`);
-- gapni bir oʻqishda tushunib boʻlmasa.
+Bunday holda bir nechta yoʻl bor. Matnga mosini tanlang:
 
-Gapni boʻlmang, agar u oʻzbekchada ham tabiiy va tushunarli boʻlsa. Har bir
-uzun gapni qisqartirish **shart emas**.
+- soʻz tartibini oʻzgartirish yoki aniqlovchini qisqartirish;
+- uzun aniqlovchini alohida ergash gap yoki `-ib` bilan bogʻlangan qismga
+  aylantirish;
+- gapni ikkiga boʻlish.
 
-Boʻlganda:
+Gapni boʻlish shulardan faqat biri, majburiy emas. Mazmun va fikrlar
+orasidagi bogʻlanish har doim saqlanishi kerak.
 
-- mazmunni **tashlab yubormang**, faqat gap tuzilishini oʻzgartiring;
-- fikrlar orasidagi bogʻlanishni saqlang: `shu sababli`, `biroq`, `bunda`,
-  `natijada`, `bu esa`.
-
-| Inglizcha | Ogʻir tarjima | Yaxshiroq |
+| Inglizcha | Ogʻirroq tarjima | Yengilroq variant |
 |---|---|---|
-| The committee, which was set up in 2020 to oversee the reform that had been delayed several times, published its final report. | 2020-yilda bir necha marta kechiktirilgan islohotni nazorat qilish uchun tuzilgan qoʻmita yakuniy hisobotini eʼlon qildi. | Qoʻmita 2020-yilda tuzilgan edi. Uning vazifasi bir necha marta kechiktirilgan islohotni nazorat qilish edi. Endi qoʻmita yakuniy hisobotini eʼlon qildi. |
+| The committee, which was set up in 2020 to oversee the reform that had been delayed several times, published its final report. | 2020-yilda bir necha marta kechiktirilgan islohotni nazorat qilish uchun tuzilgan qoʻmita yakuniy hisobotini eʼlon qildi. | Bir necha marta kechiktirilgan islohotni nazorat qilish uchun 2020-yilda qoʻmita tuzilgan edi. U yakuniy hisobotini eʼlon qildi. |
 
-Ehtiyot boʻling: huquqiy matn, rasmiy hujjat, iqtibos va badiiy tarjimada
-gap tuzilishi muhim boʻlishi mumkin. Bunday matnlarni foydalanuvchi soʻramasa
-boʻlmang. Aniq (soʻzma-soʻz) tarjima soʻralganda ham boʻlmang.
+Huquqiy matn, rasmiy hujjat, iqtibos, badiiy asar va soʻzma-soʻz tarjimada
+gap tuzilishini imkon qadar asliyatdagidek saqlang.
 
 ## 5. Tez-tez uchraydigan xatolar
 
