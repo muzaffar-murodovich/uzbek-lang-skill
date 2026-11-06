@@ -158,7 +158,7 @@ yoziladi. Lotin yozuvida esa faqat `togʻga` toʻgʻri; `toqqa`, `bargka` xato.
 | ь | — | tushib qoladi |
 | э | e | `eshik` |
 | ю я | yu ya | `yulduz`, `yaxshi` |
-| ў қ ғ ҳ | oʻ q gʻ h | `oʻg‘il` emas, `oʻgʻil` |
+| ў қ ғ ҳ | oʻ q gʻ h | `ўғил` → `oʻgʻil`; `ʻ` faqat U+02BB, `‘` (U+2018) yoki `'` (U+0027) emas |
 
 Oʻgirishda `ў` va `ғ` uchun faqat `ʻ` (U+02BB), `ъ` uchun faqat `ʼ` (U+02BC)
 ishlating.
