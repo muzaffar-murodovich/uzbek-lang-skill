@@ -1,6 +1,6 @@
 # Imlo qoidalari
 
-Asos: «Oʻzbek tilining asosiy imlo qoidalari» (1995). Bu fayl modelga va
+Asos: “Oʻzbek tilining asosiy imlo qoidalari” (1995). Bu fayl modelga va
 foydalanuvchiga eng koʻp kerak boʻladigan qoidalarni qisqa koʻrinishda beradi.
 
 ## Mundarija

@@ -25,9 +25,13 @@ doim shu Unicode belgilari bilan yozing:
 | `oʻ`, `gʻ` harflari | `ʻ` | U+02BB MODIFIER LETTER TURNED COMMA | oʻqituvchi, togʻ, Oʻzbekiston, Gʻafur |
 | Tutuq belgisi | `ʼ` | U+02BC MODIFIER LETTER APOSTROPHE | maʼno, taʼlim, sanʼat, eʼlon, Qurʼon |
 
-**Hech qachon ishlatmang:** `'` (U+0027), `` ` `` (U+0060), `‘` (U+2018),
-`’` (U+2019), `´` (U+00B4), `ʹ` (U+02B9). Ular koʻrinishidan oʻxshash, lekin
-notoʻgʻri: qidiruv, saralash va imlo tekshiruvini buzadi.
+**`ʻ` va `ʼ` oʻrnida hech qachon ishlatmang:** `'` (U+0027), `` ` `` (U+0060),
+`‘` (U+2018), `’` (U+2019), `´` (U+00B4), `ʹ` (U+02B9). Ular koʻrinishidan
+oʻxshash, lekin notoʻgʻri: qidiruv, saralash va imlo tekshiruvini buzadi.
+
+`‘` (U+2018) va `’` (U+2019) faqat **ichma-ich qoʻshtirnoq** sifatida
+ishlatiladi (5-boʻlim). Ichki qoʻshtirnoqni yopishda tutuq belgisi `ʼ` emas,
+`’` (U+2019) yoziladi.
 
 ### Qaysi birini tanlash
 
@@ -81,7 +85,7 @@ Natija: avval tuzatilgan matn, keyin oʻzgarishlar roʻyxati:
 | `o'quvchi` | `oʻquvchi` | `oʻ` harfi U+02BB bilan yoziladi |
 
 Belgi almashtirishlari koʻp boʻlsa, ularni bitta qatorda umumlashtiring
-(«`'` → `ʻ`/`ʼ`: 37 ta joyda»).
+(“`'` → `ʻ`/`ʼ`: 37 ta joyda”).
 
 ### Tahrir
 Korrekturadan tashqari uslubni ham yaxshilang: kalkalar, takrorlar, ortiqcha
@@ -94,16 +98,16 @@ qanday boʻlishi kerak va qaysi qoidaga koʻra. Oxirida qisqa umumiy baho.
 
 ## 4. Uslublar
 
-- **Rasmiy-idoraviy** (ariza, xat, buyruq, bayonnoma): «Siz» bosh harf bilan,
+- **Rasmiy-idoraviy** (ariza, xat, buyruq, bayonnoma): “Siz” bosh harf bilan,
   aniq va qisqa gaplar, hissiy soʻzlarsiz, belgilangan andozalarga rioya.
-- **Ilmiy** (maqola, dissertatsiya, referat): shaxssiz yoki «biz» shaklidagi
+- **Ilmiy** (maqola, dissertatsiya, referat): shaxssiz yoki “biz” shaklidagi
   bayon, aniq atamalar, dalil va manbaga tayanish, baholovchi sifatlardan
   qochish.
 - **Publitsistik** (maqola, yangilik, post): jonli, tushunarli, lekin adabiy
   meʼyorda.
 - **Soʻzlashuv** (chat, ijtimoiy tarmoq): erkinroq, lekin imlo baribir toʻgʻri.
 
-Murojaat shakli standart holatda — «siz». «Sen» faqat foydalanuvchi shuni
+Murojaat shakli standart holatda — “siz”. “Sen” faqat foydalanuvchi shuni
 xohlasa yoki matn turi talab qilsa.
 
 ## 5. Tez-tez uchraydigan xatolar
@@ -118,7 +122,8 @@ xohlasa yoki matn turi talab qilsa.
 - **Tartib son raqamda**: `5-sinf`, `3-bob`, `2026-yil`; `5-chi sinf` emas.
 - **Oy, kun, millat va til nomlari** kichik harf bilan: `6-noyabr`,
   `dushanba`, `oʻzbek tili`.
-- **Qoʻshtirnoq**: `«...»`, ichma-ich — `„...“`. Inglizcha `"..."` emas.
+- **Qoʻshtirnoq**: `“...”` (U+201C, U+201D), ichma-ich — `‘...’` (U+2018,
+  U+2019). Toʻgʻri `"..."` (U+0022), `«...»` yoki `„...“` emas.
 - **Kalkalar**: ruscha va inglizcha iboralarni soʻzma-soʻz koʻchirmang;
   oʻzbekcha tabiiy muqobilini tanlang.
 
@@ -135,8 +140,9 @@ Murakkab holatda tegishli faylni oʻqing.
 
 Javobni berishdan oldin oʻzbekcha matnni koʻzdan kechiring:
 
-1. `'`, `` ` ``, `‘`, `’` qolmadimi? `o`/`g` dan keyin — `ʻ`, boshqa joyda — `ʼ`.
+1. Soʻz ichida `'`, `` ` ``, `‘`, `’` qolmadimi? `o`/`g` dan keyin — `ʻ`,
+   boshqa joyda — `ʼ`.
 2. Begona harflar (`ş`, `ç`, `ğ`, `ı`, `ö`, `ü`) yoʻqmi?
-3. Qoʻshtirnoqlar `«»` shaklidami?
+3. Qoʻshtirnoqlar `“...”`, ichma-ich `‘...’` shaklidami?
 4. Kod, URL va boshqa tildagi parchalar oʻzgarmay qoldimi?
 5. Tanlangan rejim talablari bajarildimi (korrekturada uslubga tegilmadimi)?

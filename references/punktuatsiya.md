@@ -1,7 +1,7 @@
 # Tinish belgilari va formatlash
 
 Oʻzbek tilida tinish belgilari qoidalari inglizchadan farq qiladi. Inglizcha
-odatlarni (Oxford vergul, `"..."` qoʻshtirnoq, `1,000.50` raqamlar)
+odatlarni (Oxford vergul, toʻgʻri `"..."` qoʻshtirnoq, `1,000.50` raqamlar)
 koʻchirmang.
 
 ## Mundarija
@@ -58,31 +58,34 @@ Tire qoʻyiladigan joylar:
 - Ot bilan ifodalangan ega va kesim orasida, bogʻlama boʻlmasa:
   `Toshkent — Oʻzbekiston poytaxti.` `Bilim — kuch.`
 - Umumlashtiruvchi soʻz oldidan: `Olma, nok, uzum — hammasi pishdi.`
-- Dialog va koʻchirma gapda muallif gapidan oldin: `«Kelaman», — dedi u.`
+- Dialog va koʻchirma gapda muallif gapidan oldin: `“Kelaman”, — dedi u.`
 - Kutilmagan natija yoki qarama-qarshilikda: `Bordim — hech kim yoʻq.`
 
 Matnda tire oʻrniga chiziqcha (`-`) yoki ikki chiziqcha (`--`) yozmang.
 
 ## 3. Qoʻshtirnoq
 
-- Asosiy: `«...»` (U+00AB, U+00BB). Ichma-ich: `„...“` (U+201E, U+201C).
-  `«Kitobda „Mehrobdan chayon“ asari tilga olingan», — dedi u.`
+- Asosiy: `“...”` (U+201C, U+201D). Ichma-ich: `‘...’` (U+2018, U+2019).
+  `“Kitobda ‘Mehrobdan chayon’ asari tilga olingan”, — dedi u.`
+- Ishlatilmaydi: toʻgʻri `"..."` (U+0022), `«...»`, `„...“`.
+- Ichki qoʻshtirnoqni yopuvchi `’` (U+2019) tutuq belgisi `ʼ` (U+02BC) bilan
+  almashtirilmaydi. Ular koʻrinishidan oʻxshash, lekin vazifasi boshqa.
 - Qoʻshtirnoqqa olinadi:
   - koʻchirma gaplar va iqtiboslar;
-  - asar, gazeta, jurnal, film nomlari: `«Oʻtkan kunlar»`;
-  - tashkilot, korxona, mahsulot nomlari: `«Oʻzbekiston havo yoʻllari»`;
+  - asar, gazeta, jurnal, film nomlari: `“Oʻtkan kunlar”`;
+  - tashkilot, korxona, mahsulot nomlari: `“Oʻzbekiston havo yoʻllari”`;
   - koʻchma yoki kinoyali maʼnodagi soʻzlar.
 - Qoʻshtirnoqdan keyingi qoʻshimcha chiziqchasiz qoʻshiladi:
-  `«Oʻtkan kunlar»ni oʻqidim.`
-- Nuqta va vergul qoʻshtirnoqdan **keyin** qoʻyiladi: `U «ertaga» dedi.`
+  `“Oʻtkan kunlar”ni oʻqidim.`
+- Nuqta va vergul qoʻshtirnoqdan **keyin** qoʻyiladi: `U “ertaga” dedi.`
   Soʻroq va undov belgisi iqtibosga tegishli boʻlsa, ichida qoladi:
-  `U «Kelasanmi?» deb soʻradi.`
+  `U “Kelasanmi?” deb soʻradi.`
 
 ## 4. Ikki nuqta, nuqtali vergul, koʻp nuqta
 
 - **Ikki nuqta**: sanash oldidan, izoh yoki sabab oldidan, koʻchirma gap
   oldidan: `Kerakli narsalar: daftar, ruchka, kitob.`
-  `U shunday dedi: «Ertaga boshlaymiz».`
+  `U shunday dedi: “Ertaga boshlaymiz”.`
 - **Nuqtali vergul**: ichida vergul boʻlgan uzun uyushiq qismlar orasida,
   roʻyxat bandlari oxirida.
 - **Koʻp nuqta**: `…` (U+2026) yoki `...`; bitta matn ichida bittasini
@@ -92,7 +95,7 @@ Matnda tire oʻrniga chiziqcha (`-`) yoki ikki chiziqcha (`--`) yozmang.
 
 - `.` `,` `:` `;` `!` `?` dan **oldin** boʻshliq yoʻq, **keyin** bor.
 - Qavs va qoʻshtirnoqning ichki tomonida boʻshliq yoʻq: `(masalan)`,
-  `«kitob»`.
+  `“kitob”`.
 - Tire (`—`) ikki tomondan boʻshliq bilan, chiziqcha (`-`) va qisqa tire
   (`–`) boʻshliqsiz.
 - Raqam va oʻlchov birligi orasida boʻshliq: `5 kg`, `10 km`, `220 V`.
