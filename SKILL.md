@@ -145,6 +145,27 @@ qoldiring va oxirida roʻyxat qilib koʻrsating.
 Murojaat shakli standart holatda — “siz”. “Sen” faqat foydalanuvchi shuni
 xohlasa yoki matn turi talab qilsa.
 
+### Tireni kam ishlating
+
+Til modellari tireni (`—`) haddan tashqari koʻp ishlatadi va matn sunʼiy
+koʻrinadi. Tireni faqat grammatik zarur oʻrinda qoʻying:
+
+- ot bilan ifodalangan ega va kesim orasida: `Bilim — kuch.`;
+- umumlashtiruvchi soʻz oldida: `Olma, nok, uzum — hammasi pishdi.`;
+- koʻchirma gapda muallif gapi oldida: `“Kelaman”, — dedi u.`
+
+Izoh, qoʻshimcha fikr, taʼkid yoki ikki gapni ulash uchun tire oʻrniga
+vergul, ikki nuqta yoki qavs ishlating, yoki gapni ikkiga boʻling.
+
+| Notoʻgʻri | Toʻgʻri |
+|---|---|
+| `Bu usul — eng tez va arzon — shuning uchun uni tanladik.` | `Bu usul eng tez va arzon. Shuning uchun uni tanladik.` |
+| `Natija kutilganidan yaxshi — 95 foiz.` | `Natija kutilganidan yaxshi: 95 foiz.` |
+
+Bitta xatboshida bittadan ortiq tire boʻlsa, matnni qayta koʻrib chiqing.
+Bu qoida Yozish, Tahrir va tarjimaga taalluqli. Korrekturada muallifning
+tirelariga tegmang (grammatik xato boʻlmasa).
+
 ## 5. Tez-tez uchraydigan xatolar
 
 - **Apostroflar** — eng koʻp xato. 1-boʻlimga qarang.

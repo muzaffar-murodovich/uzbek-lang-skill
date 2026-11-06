@@ -63,6 +63,10 @@ Tire qoʻyiladigan joylar:
 
 Matnda tire oʻrniga chiziqcha (`-`) yoki ikki chiziqcha (`--`) yozmang.
 
+Tireni faqat shu oʻrinlarda ishlating. Izoh, taʼkid yoki qoʻshimcha fikr
+uchun vergul, ikki nuqta, qavs ishlating yoki gapni boʻling (SKILL.md,
+“Tireni kam ishlating”).
+
 ## 3. Qoʻshtirnoq
 
 - Asosiy: `“...”` (U+201C, U+201D). Ichma-ich: `‘...’` (U+2018, U+2019).
