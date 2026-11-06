@@ -4,21 +4,25 @@ description: >-
   Oʻzbek tilida (lotin yozuvida) toʻgʻri imlo, tinish belgilari va uslub bilan
   yozish, tahrirlash va matnni tekshirish. Oʻzbekcha matn yozilganda, tarjima
   qilinganda, korrektura yoki tahrir soʻralganda ishlating: maqola, ilmiy ish,
-  ariza, xat, post, hujjat, interfeys matni. Write, edit, proofread or check
-  Uzbek (Latin script) text with correct orthography, punctuation and style —
-  use whenever output is in Uzbek, including translation into Uzbek.
+  ariza, xat, post, hujjat, interfeys matni. 1995-yil alifbosi (oʻ, gʻ, sh,
+  ch) va 2026-yil yangi alifbosi (ö, ğ, ş, ç), ular orasida oʻgirish. Write,
+  edit, proofread or check Uzbek (Latin script) text with correct orthography,
+  punctuation and style, in the 1995 or the new 2026 alphabet, and convert
+  between them — use whenever output is in Uzbek, including translation.
 ---
 
 # Oʻzbek tili (uzlang)
 
-Bu skill oʻzbekcha matnni amaldagi lotin alifbosi va imlo qoidalariga mos
-yozish uchun. U dasturchilar, muharrirlar, talabalar, tarjimonlar va matn bilan
+Bu skill oʻzbekcha matnni lotin alifbosi va imlo qoidalariga mos yozish
+uchun. U ikki alifboni qoʻllab-quvvatlaydi: 1995-yil alifbosi va 2026-yilda
+qabul qilingan yangi alifbo (2-boʻlim). U dasturchilar, muharrirlar, talabalar, tarjimonlar va matn bilan
 ishlaydigan har bir kishi uchun moʻljallangan.
 
 ## 1. Eng muhim qoida: ikki belgi
 
-Oʻzbek lotin yozuvida apostrofga oʻxshash **ikki xil** belgi bor. Ularni har
-doim shu Unicode belgilari bilan yozing:
+1995-yil alifbosida apostrofga oʻxshash **ikki xil** belgi bor. Ularni har
+doim shu Unicode belgilari bilan yozing. Yangi alifboda `ʻ` ishlatilmaydi
+(`oʻ` → `ö`, `gʻ` → `ğ`), tutuq belgisi `ʼ` esa xuddi shunday qoladi.
 
 | Vazifasi | Belgi | Unicode | Misollar |
 |---|---|---|---|
@@ -54,11 +58,35 @@ qoldiring: `oʻzbekiston` → `ozbekiston`, `maʼruza` → `maruza`.
 
 ## 2. Alifbo
 
-Amaldagi alifbo (1995-yil): A B D E F G H I J K L M N O P Q R S T U V X Y Z
-Oʻ Gʻ Sh Ch, tutuq belgisi `ʼ` va `ng` birikmasi.
+Ikki alifbo bor:
 
-- Boshqa tillarning harflarini aralashtirmang: `ş`, `ç`, `ğ`, `ı`, `ö`, `ü`,
-  `ä`, `ñ` oʻzbek lotin yozuvida **yoʻq**. `Oʻzbek` — toʻgʻri, `Özbek` — xato.
+| | 1995-yil alifbosi | Yangi alifbo (2026) |
+|---|---|---|
+| Harflar | A B D E F G H I J K L M N O P Q R S T U V X Y Z Oʻ Gʻ Sh Ch | A B D E F G Ğ H I J K L M N O Ö P Q R S Ş Ç T U V X Y Z |
+| Tutuq | `ʼ` (U+02BC) | `ʼ` (U+02BC) |
+| Farqi | `oʻ`, `gʻ`, `sh`, `ch` | `ö`, `ğ`, `ş`, `ç` |
+| Misol | `Oʻzbekiston, togʻ, shahar, choy` | `Özbekiston, toğ, şahar, çoy` |
+| Holati | amalda | qonun 2026-yil 21-oktyabrda qabul qilingan, 2027-yil 22-apreldan kuchga kiradi, bosqichma-bosqich joriy etiladi |
+
+### Qaysi alifboni tanlash
+
+1. Foydalanuvchi aniq aytgan boʻlsa — oʻsha alifbo.
+2. Foydalanuvchining matni, hujjati yoki loyihasi qaysi alifboda boʻlsa —
+   oʻsha alifbo. Tahrir va korrekturada matnning alifbosi **oʻzgartirilmaydi**,
+   agar buni soʻramasa.
+3. Boshqa hollarda — **1995-yil alifbosi**, chunki u hali amalda va yangi
+   alifbo uchun imlo qoidalari eʼlon qilinmagan.
+4. Bitta matnda ikki alifboni **aralashtirmang**.
+
+Yangi alifbo, harflarning Unicode kodlari, oʻgirish qoidalari va hali aniq
+boʻlmagan holatlar: [references/yangi-alifbo.md](references/yangi-alifbo.md).
+Yangi alifboda yozish yoki oʻgirishdan oldin shu faylni oʻqing.
+
+### Begona harflar
+
+- `ı`, `ü`, `ä`, `ñ`, `ș`, `ǧ` ikkala alifboda ham **yoʻq**.
+- `ö`, `ğ`, `ş`, `ç` faqat yangi alifboda bor. 1995-yil alifbosidagi matnda
+  ular xato: `Oʻzbek` — toʻgʻri, `Özbek` — xato (va aksincha).
 - Turkcha, qozoqcha yoki qirgʻizcha soʻzlarni oʻzbekcha oʻrniga ishlatmang
   (`bilgisayar` emas, `kompyuter`; `teşekkür` emas, `rahmat`).
 - Foydalanuvchi kirill yozuvida yozsa yoki kirillcha matn soʻrasa, kirillda
@@ -95,6 +123,13 @@ roʻyxatda sababi bilan koʻrsating.
 ### Tekshirish
 Matnni **oʻzgartirmang**. Faqat xatolar roʻyxatini bering: qayerda, nima xato,
 qanday boʻlishi kerak va qaysi qoidaga koʻra. Oxirida qisqa umumiy baho.
+
+### Alifboga oʻgirish
+Matnni bir alifbodan ikkinchisiga (1995 ↔ yangi) yoki kirilldan lotinga
+oʻgiring. Faqat harflar oʻzgaradi: soʻz, tinish belgilari va uslubga tegilmaydi.
+Kod, URL, xorijiy soʻzlar va rasmiy roʻyxatdan oʻtgan nomlar oʻgirilmaydi.
+Qoidasi hali aniq boʻlmagan joylarni (masalan, `Isʼhoq`, `AQSh`) oʻzgartirmay
+qoldiring va oxirida roʻyxat qilib koʻrsating.
 
 ## 4. Uslublar
 
@@ -133,6 +168,11 @@ Batafsil qoidalar:
   [references/imlo.md](references/imlo.md)
 - Tinish belgilari, raqamlar, sanalar, qisqartmalar:
   [references/punktuatsiya.md](references/punktuatsiya.md)
+- Yangi alifbo va oʻgirish:
+  [references/yangi-alifbo.md](references/yangi-alifbo.md)
+
+`imlo.md` va `punktuatsiya.md` dagi misollar 1995-yil alifbosida. Yangi
+alifboda ham shu qoidalar amal qiladi, faqat harflar oʻgiriladi.
 
 Murakkab holatda tegishli faylni oʻqing.
 
@@ -142,7 +182,9 @@ Javobni berishdan oldin oʻzbekcha matnni koʻzdan kechiring:
 
 1. Soʻz ichida `'`, `` ` ``, `‘`, `’` qolmadimi? `o`/`g` dan keyin — `ʻ`,
    boshqa joyda — `ʼ`.
-2. Begona harflar (`ş`, `ç`, `ğ`, `ı`, `ö`, `ü`) yoʻqmi?
+2. Butun matn bitta alifbodami? 1995-yil alifbosida `ö`, `ğ`, `ş`, `ç`
+   yoʻqmi; yangi alifboda `oʻ`, `gʻ`, `sh`, `ch` qolmadimi? `ı`, `ü` kabi
+   begona harflar yoʻqmi?
 3. Qoʻshtirnoqlar `“...”`, ichma-ich `‘...’` shaklidami?
 4. Kod, URL va boshqa tildagi parchalar oʻzgarmay qoldimi?
 5. Tanlangan rejim talablari bajarildimi (korrekturada uslubga tegilmadimi)?
