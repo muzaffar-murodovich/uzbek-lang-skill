@@ -166,6 +166,37 @@ Bitta xatboshida bittadan ortiq tire boʻlsa, matnni qayta koʻrib chiqing.
 Bu qoida Yozish, Tahrir va tarjimaga taalluqli. Korrekturada muallifning
 tirelariga tegmang (grammatik xato boʻlmasa).
 
+### Tarjimada uzun gaplarni boʻling
+
+Inglizchada uzun gap tuzish oson: `which`, `that`, `while` bilan fikrlarni
+ketma-ket ulash mumkin. Oʻzbek tilida kesim gap oxirida, aniqlovchilar esa
+aniqlanmishdan oldin keladi. Shuning uchun uzun gapda oʻquvchi kesimga
+yetguncha fikrni yoʻqotadi.
+
+Gapni boʻling, agar:
+
+- unda ikki yoki undan ortiq mustaqil fikr boʻlsa;
+- kesimdan oldin uzun aniqlovchi zanjiri yigʻilib qolsa
+  (`... -gan ... -gan ... -dagi ...`);
+- gapni bir oʻqishda tushunib boʻlmasa.
+
+Gapni boʻlmang, agar u oʻzbekchada ham tabiiy va tushunarli boʻlsa. Har bir
+uzun gapni qisqartirish **shart emas**.
+
+Boʻlganda:
+
+- mazmunni **tashlab yubormang**, faqat gap tuzilishini oʻzgartiring;
+- fikrlar orasidagi bogʻlanishni saqlang: `shu sababli`, `biroq`, `bunda`,
+  `natijada`, `bu esa`.
+
+| Inglizcha | Ogʻir tarjima | Yaxshiroq |
+|---|---|---|
+| The committee, which was set up in 2020 to oversee the reform that had been delayed several times, published its final report. | 2020-yilda bir necha marta kechiktirilgan islohotni nazorat qilish uchun tuzilgan qoʻmita yakuniy hisobotini eʼlon qildi. | Qoʻmita 2020-yilda tuzilgan edi. Uning vazifasi bir necha marta kechiktirilgan islohotni nazorat qilish edi. Endi qoʻmita yakuniy hisobotini eʼlon qildi. |
+
+Ehtiyot boʻling: huquqiy matn, rasmiy hujjat, iqtibos va badiiy tarjimada
+gap tuzilishi muhim boʻlishi mumkin. Bunday matnlarni foydalanuvchi soʻramasa
+boʻlmang. Aniq (soʻzma-soʻz) tarjima soʻralganda ham boʻlmang.
+
 ## 5. Tez-tez uchraydigan xatolar
 
 - **Apostroflar** — eng koʻp xato. 1-boʻlimga qarang.
